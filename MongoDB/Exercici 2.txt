@@ -1,0 +1,18 @@
+db.botiga.insertMany([{codi: "01", nom:"Por trece razones",desc:"Drama",val:8,opinions:[]},
+					{codi: "02", nom:"Juego de Tronos",desc: "Accion",val:8.5,opinions:[{punt:9,missatge:"Muy Buena" },{punt:8 ,missatge:"Buena"}]},
+					{codi: "03", nom:"Stranger Things",desc: "Misterio",val:7,opinions:[{punt:7 ,missatge: "Buena"}]},
+					{codi: "04", nom:"American Gods",desc: "Misterior",val:4,opinions:[{punt: 5,missatge:"Se puede ver" },{punt: 4 ,missatge:"Aburrida" },{punt: 4,missatge:"Lenta" }]},
+					{codi: "05", nom:"Dragon Ball Super",desc: "Anime",val:3,opinions:[{punt: 3,missatge:"Muy Lenta" },{punt: 4 ,missatge:"Aburrida" },{punt: 3,missatge:"Mala" }]},
+					{codi: "06", nom:"Glow",desc:"Drama",val:6,opinions:[{punt: 6,missatge:"Buena" },{punt: 5 ,missatge:"Se puede ver" }]},
+					{codi: "07", nom:"The Big Bang Theory",desc: "Comedia",val:7,opinions:[{punt: 7,missatge:"Buena" },{punt: 8 ,missatge:"Muy Buena"}]},
+					{codi: "08", nom:"Modern Family",desc:"Comedia",val:6,opinions:[]},
+					{codi: "09", nom:"Dr. Who",desc: "Ciencia Ficcion",val:6.5,opinions:[{punt: 6,missatge:"Buena" },{punt: 7 ,missatge:"Muy Buena" }]},
+					{codi: "10", nom:"Merlin",desc: "Drama",val:1,opinions:[{punt: 1,missatge:"Muy Mala" },{punt: 1 ,missatge:"Muy Aburrida" },{punt: 2,missatge:"Sin Accion" },{punt: 1,missatge:"La peor que he visto" }]},
+					{codi: "11", nom:"Raxhephon",desc:"Anime",val:2,opinions:[{punt: 1,missatge:"Horrenda" },{punt: 1 ,missatge:"Muy Aburrida" }]},
+					{codi: "12", nom:"Re:Zero",desc:"Anime",val:8,opinions:[{punt: 9,missatge:"Muy Buena" },{punt: 7 ,missatge:"Buena" }]},
+					{codi: "13", nom:"",desc:"Anime",val:8,opinions:[{punt: 9,missatge:"Muy Buena" },{punt: 7 ,missatge:"Buena" }]},
+					{codi: "14", nom:"Re:Zero",desc:"Anime",val:8,opinions:[{punt: 9,missatge:"Muy Buena" },{punt: 7 ,missatge:"Buena" }]},
+					{codi: "15", nom:"Re:Zero",desc:"Anime",val:8,opinions:[{punt: 9,missatge:"Muy Buena" },{punt: 7 ,missatge:"Buena" }]},
+					])
+
+{codi: "01", nom:" ",desc: "",val:5,opinions:[{punt: ,missatge: }]}
